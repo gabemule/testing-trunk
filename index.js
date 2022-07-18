@@ -1,5 +1,5 @@
 (() => {
   console.group('Hello World')
-  console.log('Feature 3');
+  console.log('Test 1');
   console.groupEnd('Hello World')
 })();
